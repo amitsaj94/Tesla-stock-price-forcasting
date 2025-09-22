@@ -1,0 +1,9 @@
+mplfinance
+pandas
+numpy
+matplotlib
+prophet
+scikit-learn
+joblib
+jupyterlab
+nbconvert
